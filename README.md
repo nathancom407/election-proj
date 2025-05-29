@@ -1,5 +1,5 @@
 
-# Election Projection ML Model
+# Election Projection ML Model and Causal Inference Exploration
 
 This repository contains a data-driven analysis of the 2022 U.S. House and Senate elections. The goal is to investigate and model the relationship between campaign finance and electoral success using machine learning and causal inference techniques.
 
