@@ -72,3 +72,8 @@ Election Projection ML Model/
 - Incorporate additional years of data for time-series comparisons
 - Use matching or doubly robust estimation for improved causal inference
 - Develop a dashboard to visualize electoral forecasts interactively
+
+## Contact
+
+Built by Nathan Comstock (https://github.com/nathancom407)  
+Email: nathanc.personal@gmail.com
