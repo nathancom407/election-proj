@@ -70,5 +70,5 @@ Election Projection ML Model/
 
 ## Contact
 
-Built by Nathan Comstock (https://github.com/nathancom407)  
+Built by Nathan Comstock (https://github.com/nathancom407) in collaboration with David Li, Charlie Ginsburg, and Teoman Akca 
 Email: nathanc.personal@gmail.com
