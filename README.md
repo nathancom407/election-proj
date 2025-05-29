@@ -60,8 +60,8 @@ The `EDA.ipynb` notebook includes:
 ```
 Election Projection ML Model/
 │
-├── Data_C102_Code_RQ1.ipynb       # Vote % prediction using ML models
-├── Data_C102_Code_RQ2.ipynb       # Causal inference: spending vs. vote share
+├── RQ1.ipynb                      # Vote % prediction using ML models
+├── RQ2.ipynb                      # Causal inference: spending vs. vote share
 ├── EDA.ipynb                      # Data cleaning and exploratory visualizations
 ├── *.csv                          # Raw datasets (FEC and election results)
 └── README.md                      # Project overview and documentation
