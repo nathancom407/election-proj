@@ -44,11 +44,6 @@ The `EDA.ipynb` notebook includes:
 - Confounders: Incumbency, party, candidate status (open seat), state, gender, and office type
 - Analysis: Compared top spenders to non-top spenders within the same race to estimate causal impact
 
-## Key Results
-
-- **RQ1:** Linear models explained ~15% of the vote share variance; Random Forests and KNN performed better with scaling and additional features.
-- **RQ2:** Candidates who spent the most generally earned a higher vote share. However, after adjusting for confounders, the causal impact was smaller than initially observed.
-
 ## Technologies & Libraries
 
 - Python (Pandas, NumPy, Scikit-learn, Statsmodels)
